@@ -1,1 +1,1 @@
-# HTML-Canvas
+# HTML Canvas
